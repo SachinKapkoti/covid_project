@@ -1,0 +1,103 @@
+[
+  {
+    "SNo": "1",
+    "ObservationDate": "01/22/2020",
+    "State": "Anhui",
+    "Country": "Mainland China",
+    "LastUpdate": "1/22/2020 17:00",
+    "Confirmed": "1.0",
+    "Deaths": "0.0",
+    "Recovered": "0.0"
+  },
+  {
+    "SNo": "2",
+    "ObservationDate": "01/22/2020",
+    "State": "Beijing",
+    "Country": "Mainland China",
+    "LastUpdate": "1/22/2020 17:00",
+    "Confirmed": "14.0",
+    "Deaths": "0.0",
+    "Recovered": "0.0"
+  },
+  {
+    "SNo": "3",
+    "ObservationDate": "01/22/2020",
+    "State": "Chongqing",
+    "Country": "Mainland China",
+    "LastUpdate": "1/22/2020 17:00",
+    "Confirmed": "6.0",
+    "Deaths": "0.0",
+    "Recovered": "0.0"
+  },
+  {
+    "SNo": "4",
+    "ObservationDate": "01/22/2020",
+    "State": "Fujian",
+    "Country": "Mainland China",
+    "LastUpdate": "1/22/2020 17:00",
+    "Confirmed": "1.0",
+    "Deaths": "0.0",
+    "Recovered": "0.0"
+  },
+  {
+    "SNo": "5",
+    "ObservationDate": "01/22/2020",
+    "State": "Gansu",
+    "Country": "Mainland China",
+    "LastUpdate": "1/22/2020 17:00",
+    "Confirmed": "0.0",
+    "Deaths": "0.0",
+    "Recovered": "0.0"
+  }
+  ,
+  {
+    "SNo": "306426",
+    "ObservationDate": "05/29/2021",
+    "State": "Zeeland",
+    "Country": "Netherlands",
+    "LastUpdate": "2021-05-30 04:20:55",
+    "Confirmed": "29147.0",
+    "Deaths": "245.0",
+    "Recovered": "0.0"
+  },
+  {
+    "SNo": "306427",
+    "ObservationDate": "05/29/2021",
+    "State": "Zhejiang",
+    "Country": "Mainland China",
+    "LastUpdate": "2021-05-30 04:20:55",
+    "Confirmed": "1364.0",
+    "Deaths": "1.0",
+    "Recovered": "1324.0"
+  },
+  {
+    "SNo": "306428",
+    "ObservationDate": "05/29/2021",
+    "State": "Zhytomyr Oblast",
+    "Country": "Ukraine",
+    "LastUpdate": "2021-05-30 04:20:55",
+    "Confirmed": "87550.0",
+    "Deaths": "1738.0",
+    "Recovered": "83790.0"
+  },
+  {
+    "SNo": "306429",
+    "ObservationDate": "05/29/2021",
+    "State": "Zuid-Holland",
+    "Country": "Netherlands",
+    "LastUpdate": "2021-05-30 04:20:55",
+    "Confirmed": "391559.0",
+    "Deaths": "4252.0",
+    "Recovered": "0.0"
+  },
+  {
+    "SNo": "",
+    "ObservationDate": null,
+    "State": null,
+    "Country": null,
+    "LastUpdate": null,
+    "Confirmed": null,
+    "Deaths": null,
+    "Recovered": null
+  }
+]
